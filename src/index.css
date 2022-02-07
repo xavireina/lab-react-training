@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.BoxColor {
+  border: 1px solid black;
+  margin: 10px 0px;
+  text-align: center;
+  height: 70px;
+}
